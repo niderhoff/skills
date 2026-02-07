@@ -19,7 +19,7 @@ npx skills add <your-username>/skills --all
 
 ## Available Skills
 
-- [**readeck**](./readeck) - Interact with Readeck API to save bookmarks and extract web content
+- [**readeck**](./readeck) - Interact with [Readeck](https://readeck.org/) API to save bookmarks and extract web content
 
 ## Resources
 
