@@ -4,7 +4,7 @@ description: Readeck is a simple web application that lets you save the precious
 allowed-tools: Bash(curl:*) Bash(jq:*) Read
 ---
 
-# Browser Automation with agent-browser
+# Readeck API Integration
 
 Readeck API provides REST endpoints that allow you to interact with the Readeck application, enabling functionalities like saving bookmarks and extracting content. You can access it at <https://readeck-installation/api> and use authentication tokens for secure access. Use Bearer-Token to authenticate with the API.
 
