@@ -8,13 +8,13 @@ Install skills from this repository using the [skills CLI](https://github.com/ve
 
 ```bash
 # List available skills
-npx skills add <your-username>/skills --list
+npx skills add niderhoff/skills --list
 
 # Install a specific skill
-npx skills add <your-username>/skills --skill example-skill
+npx skills add niderhoff/skills --skill readeck
 
 # Install all skills
-npx skills add <your-username>/skills --all
+npx skills add niderhoff/skills --all
 ```
 
 ## Available Skills
