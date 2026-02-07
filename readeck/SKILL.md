@@ -24,14 +24,14 @@ Read the API Documentation here: <https://codeberg.org/readeck/readeck/src/branc
 
 ## Endpoints
 
-GET /bookmarks
-GET /bookmarks/{id}
-GET /bookmarks/{id}/article
-GET /bookmarks/{id}/article.{format} (allowed: epub, md)
-GET /bookmarks/labels
-GET /bookmarks/labels/{name}
-GET /bookmarks/annotations
-GET /bookmarks/{id}/annotations
-GET /bookmarks/collections
-GET /bookmarks/collections/{id}
+- GET /bookmarks
+- GET /bookmarks/{id}
+- GET /bookmarks/{id}/article
+- GET /bookmarks/{id}/article.{format} (allowed: epub, md)
+- GET /bookmarks/labels
+- GET /bookmarks/labels/{name}
+- GET /bookmarks/annotations
+- GET /bookmarks/{id}/annotations
+- GET /bookmarks/collections
+- GET /bookmarks/collections/{id}
 
